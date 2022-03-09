@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<data name="preferencias">
+    <persona name="Ronald">
+        <cedula>1231212</cedula>
+        <color_fav>Rojo</color_fav>
+        <comida_fav>Salchipapa</comida_fav>
+        <lugar_fav>Playa</lugar_fav>
+        <hobbie_fav>Musica</hobbie_fav>
+    </persona>
+    <persona name="Enrique">
+        <cedula>98989898</cedula>
+        <color_fav>Negro</color_fav>
+        <comida_fav>Pizza</comida_fav>
+        <lugar_fav>Barranquilla</lugar_fav>
+        <hobbie_fav>Leer</hobbie_fav>
+    </persona>
+    <persona name="Camila">
+        <cedula>666346346</cedula>
+        <color_fav>Rosa</color_fav>
+        <comida_fav>cazuela de mariscos</comida_fav>
+        <lugar_fav>Playa</lugar_fav>
+        <hobbie_fav>VideoJuegos</hobbie_fav>
+    </persona>
+</data>
