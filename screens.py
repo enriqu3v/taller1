@@ -1,5 +1,4 @@
 import tkinter as tk
-from turtle import color
 
 import xml.etree.ElementTree as ET
 
@@ -7,7 +6,7 @@ import xml.etree.ElementTree as ET
 tree = ET.parse('./XML/Prueba.xml') #ENLAZAR EL ARCHIVO XML
 root = tree.getroot() #OBTENER EL ELEMENTO RAIZ
 
-from constantes import style, config
+from constantes import style
 
 
 class Data:

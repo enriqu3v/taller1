@@ -24,7 +24,7 @@ class Manager(tk.Tk):  #VENTANA PRINCIPAL DE LA APLICACION
 
         self.frames = {} #DICCIONARIO VACIO 
         for F in (Home, Game):
-            frame = F(container, self)   ###VOY POR MINUTO 17:28
+            frame = F(container, self)   
             self.frames[F] = frame #GUARDAMOS EN UN DICCIONARIO LAS CLASES QUE SON 'SCREENS' EN MANAGER
             frame.grid(row = 0, column = 0, sticky = tk.NSEW) #Sticky se ancla a todos los costados
         
